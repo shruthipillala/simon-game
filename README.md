@@ -27,8 +27,14 @@ Test how good your memory is by repeating an increasingly complex sequence of co
 - GitHub Pages (for hosting)
 
 ---
+## 📅 Project Deployed On
+
+**Date:** July 4, 2025  
+**Live Link:** [Click here to play the Simon Game](https://shruthipillala.github.io/simon-game/)
 
 ## 📸 Screenshot
 
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](Screenshot1.png)
+(Screenshot2.png)
+(Screenshot3.png)
 
