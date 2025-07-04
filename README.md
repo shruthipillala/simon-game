@@ -34,7 +34,12 @@ Test how good your memory is by repeating an increasingly complex sequence of co
 
 ## 📸 Screenshot
 
-![Simon Game Screenshot](Screenshot1.png)
-(Screenshot2.png)
-(Screenshot3.png)
 
+### Game Start
+![Game Start](Screenshot1.png)
+
+### Pattern Display
+![Pattern Display](Screenshot2.png)
+
+### Game Over
+![Game Over](Screenshot3.png)
